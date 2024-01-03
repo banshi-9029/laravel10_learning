@@ -15,8 +15,8 @@
             <a href="/articles" class="site-menu-colum">
                 <div class="site-menu-colum-title">ブログ</div>
             </a>
-            <a href="/" class="site-menu-colum">
-                <div class="site-menu-colum-title">サンプル</div>
+            <a href="/calendar" class="site-menu-colum">
+                <div class="site-menu-colum-title">カレンダー</div>
             </a>
             <a href="/" class="site-menu-colum">
                 <div class="site-menu-colum-title">サンプル</div>

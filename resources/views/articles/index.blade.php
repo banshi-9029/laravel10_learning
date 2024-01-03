@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<p><a href="{{ route('articles.create') }}">記事を書く→</a></p>
+<p><a href="{{ route('articles.create') }}">ブログを書く→</a></p>
 
 <!--
 @foreach ($articles as $article)
