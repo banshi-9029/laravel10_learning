@@ -1,0 +1,19 @@
+/**
+*top.blade.php
+*/
+.top-colum {
+    display: flex;
+    justify-content: center;
+}
+.top-colum-up {
+    display: flex;
+}
+.top-colum-up-detail {
+    margin: 20px;
+}
+@media screen and (max-width: 959px) {
+    .top-colum-up {
+        display: flex;
+        flex-flow: column;
+    }
+}

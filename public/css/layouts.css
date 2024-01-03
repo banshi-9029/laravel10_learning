@@ -1,0 +1,23 @@
+/**
+*app.blade.php
+*/
+.site-title {
+    font-size: 1.3rem;
+}
+.site-menu {
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.site-menu-colum {
+    margin: 0 20px;
+}
+.site-menu-colum-title {
+    padding: 10px 10px;
+    border-bottom: #171717 4px solid;
+}
+.site-menu-colum-title:hover {
+    color: rgb(174, 76, 76);
+    border-bottom: rgb(174, 76, 76) 4px solid;
+    transition: 0.4s;
+}
